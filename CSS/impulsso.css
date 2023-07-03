@@ -1,8 +1,16 @@
 .bg-oxford {
     background-color: rgba(42, 42, 42, 0.95);
     background-blend-mode: color-burn;
+    background-image: url(/IMG/Textura-brandImpulsso.png);
+    background-repeat: no-repeat;
+
 }
 
+.WhatDoNWho{
+    background-color: rgba(42, 42, 42, 0.4);
+    filter: blur(0.2);
+    height: 40em;
+}
 .bgmain {
     background-image: url(/IMG/Brand-texture.png);
     background-repeat:no-repeat;
