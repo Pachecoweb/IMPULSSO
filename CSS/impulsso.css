@@ -9,12 +9,11 @@
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 200;
     font-size: medium;
-    color: cornsilk;
+    color: greenyellow;
 }
 .WhatDoNWho{
-    background-color: rgba(42, 42, 42, 0.4);
     filter: blur(0.2);
-    height: 40em;
+    height: 50em;
 }
 .bgmain {
     background-image: url(/IMG/Brand-texture.png);
@@ -26,4 +25,11 @@
 
 .logo {
     height: 72px;
+}
+footer {
+    height: 250px;
+}
+.footer-space{
+    background-color: darkgray;
+
 }
