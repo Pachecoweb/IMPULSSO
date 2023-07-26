@@ -1,5 +1,10 @@
+body {
+    font-family: 'Crimson Pro', serif;
+    font-size: 48px;
+  }
+
 .bg-oxford {
-    background-color: rgba(42, 42, 42, 0.95);
+    background-color: rgba(20.78, 25.88, 18.82, 0.9);
     background-blend-mode: color-burn;
     background-image: url(/IMG/Textura-brandImpulsso.png);
     background-repeat: no-repeat;
@@ -26,10 +31,14 @@
 .logo {
     height: 72px;
 }
-footer {
-    height: 250px;
-}
-.footer-space{
-    background-color: darkgray;
 
+.footer-space {
+    height: 200px;
+    background-color: rgba(20.78, 25.88, 18.82, 0.9);
+
+}
+
+.footer-logo {
+    width: 10em;
+    color: white;
 }
