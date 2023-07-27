@@ -25,7 +25,7 @@ body {
     background-repeat:no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    opacity: 0.8;
+    
 }
 
 .logo {
@@ -34,7 +34,7 @@ body {
 
 .footer-space {
     height: 200px;
-    background-color: rgba(20.78, 25.88, 18.82, 0.9);
+    background-color: rgba(22, 19, 26, 0.9);
 
 }
 
