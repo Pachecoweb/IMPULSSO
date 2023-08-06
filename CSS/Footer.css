@@ -1,0 +1,34 @@
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-space {
+    height: 200px;
+    background-color: rgba(22, 19, 26, 0.9);
+}
+.instagram-link :hover{
+    color: fuchsia;
+}
+.linkedin-link :hover{
+    color: dodgerblue;
+}
+.whatsapp-link :hover{
+    color: limegreen;
+}
+.dribbble-link :hover{
+    color:hotpink
+}
+.gmail-link :hover{
+    color: rgb(255, 0, 0);
+}
+
+.footer-logo {
+    width: 11.5em;
+    color: white;
+}
+.footer-logo :hover{
+    transform-box: url(/IMG/Vertical-Brand-color.png);
+    font-size-adjust: 300px;
+    
+}
