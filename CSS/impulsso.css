@@ -35,7 +35,7 @@ body {
 }
 .WhatDoNWho{
     filter: blur(0.2);
-    height: 50em;
+    height: 40em;
 }
 .bgmain {
     background-image: url(/IMG/Brand-texture.png);
